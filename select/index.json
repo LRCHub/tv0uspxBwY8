@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "月曜日",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-02-20T12:57:10.323431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月曜日",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_月曜日_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月曜日",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_月曜日_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月曜日、謎のスイッチ",
+      "artist": "Maiko Fujita",
+      "has_synced": false,
+      "path": "select/03_月曜日、謎のスイッチ_Maiko_Fujita.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02_月曜日_子役出身アイドル「皆川愛梨」ちゃん",
+      "artist": "劇団チェリー",
+      "has_synced": true,
+      "path": "select/04_02_月曜日_子役出身アイドル「皆川愛梨」ちゃん_劇団チェリー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トラック1_月曜日・真っ白な一週間の始まり",
+      "artist": "らくれっと",
+      "has_synced": true,
+      "path": "select/05_トラック1_月曜日・真っ白な一週間の始まり_らくれっと.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トラック9_月曜日・変わる日常",
+      "artist": "らくれっと",
+      "has_synced": true,
+      "path": "select/06_トラック9_月曜日・変わる日常_らくれっと.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tr12_月曜日_メッセージ",
+      "artist": "Refer U",
+      "has_synced": true,
+      "path": "select/07_Tr12_月曜日_メッセージ_Refer_U.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tr13_月曜日_ついて来て",
+      "artist": "Refer U",
+      "has_synced": true,
+      "path": "select/08_Tr13_月曜日_ついて来て_Refer_U.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月曜日",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_月曜日_amazarashi.txt"
+    }
+  ]
+}
